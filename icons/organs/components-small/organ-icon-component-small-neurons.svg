@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64">
     <g clip-path="url(#a)">
-        <rect width="64" height="64" fill="#4B4B5E" rx="32"/>
+        <rect width="64" height="64" fill="currentColor" rx="32"/>
         <path stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".75" d="m45.387 46.223-.83 1.42M31.828 28.323c7.046 2.103 6.558 3.41 7.956 4.91 1.83 1.966 1.716 3.228 2.91 6.319.613 1.59.874 7.273 5.011 7.637M47.671 44.382l-3.114.796"/>
         <path stroke="#fff" stroke-dasharray="2 2 2 2 2 2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36.226 29.982c3.49 2.353 4.626 2.546 7.808 14.4"/>
         <path stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".75" d="M23.997 31.312a4.17 4.17 0 0 0-1.852 1.853c-.307.795-.455 1.67-2.057 2.034M22.179 34.04l1.16.739M23.338 25.845c-1.75.319-2.943-1.397-3.682-2.443M21.213 25.686l-1.784.694M28.782 22.834a8.8 8.8 0 0 0 .705-3.273c-.091-1.421-.228-2.99-.228-2.99M29.566 20.072l2.262-2.069M29.464 18.708l-2.08-.92M32.521 24.64c1.25-.51 1.785-.602 3.217-1.238 1.432-.637 2.716-1.137 2.716-1.137M36.613 22.834l-.16-1.853M29.566 32.528s2.194 1.887 2.194 3.08c.099.84.447 1.632 1 2.273M31.6 36.267l-2.738 1.16"/>

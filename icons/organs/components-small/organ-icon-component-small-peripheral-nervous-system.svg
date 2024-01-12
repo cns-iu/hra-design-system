@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64">
     <g clip-path="url(#a)">
-        <rect width="64" height="64" fill="#4B4B5E" rx="32"/>
+        <rect width="64" height="64" fill="currentColor" rx="32"/>
         <path stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".75" d="m45.33 47.79-.937 1.604M30.01 27.564c7.962 2.375 7.41 3.852 8.99 5.547 2.067 2.222 1.938 3.647 3.287 7.14.693 1.798.988 8.219 5.663 8.63M47.911 45.709l-3.518.899"/>
         <path stroke="#fff" stroke-dasharray="2 2 2 2 2 2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34.98 29.439c3.942 2.658 5.226 2.876 8.822 16.27"/>
         <path stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".75" d="M21.162 30.941a4.7 4.7 0 0 0-2.093 2.093c-.347.9-.514 1.888-2.324 2.299M19.108 34.023l1.31.835M20.418 24.764c-1.978.36-3.326-1.58-4.161-2.76M18.016 24.585 16 25.368M26.569 21.361c.5-1.17.77-2.425.796-3.698a174 174 0 0 0-.257-3.377M27.455 18.24l2.555-2.336M27.34 16.7l-2.35-1.04M30.794 23.403c1.412-.578 2.016-.68 3.634-1.4s3.069-1.284 3.069-1.284M35.416 21.361l-.18-2.093M27.455 32.315s2.478 2.132 2.478 3.48a4.8 4.8 0 0 0 1.13 2.569M29.753 36.54l-3.095 1.31"/>
