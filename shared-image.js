@@ -7,6 +7,10 @@ class SharedImage extends HTMLElement {
     this.attachShadow({ mode: 'open' });
   }
 
+  get backgroundColor() {
+    return this.getAttribute('background-color') || 'white';
+  }
+
   get src() {
     return this.getAttribute('src');
   }
@@ -19,7 +23,7 @@ class SharedImage extends HTMLElement {
   get template() {
     return `
       <a href="${this.cdnUrl}" target="_blank" style="text-decoration: none">
-        <img src="${this.src}" style="padding: 2rem">
+        <img src="${this.src}" style="padding: 2rem; background-color: ${this.backgroundColor};">
       </a>
     `
   }
